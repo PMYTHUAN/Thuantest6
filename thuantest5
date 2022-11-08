@@ -1,0 +1,7 @@
+</p-tabPanel>
+      <p-tabPanel header="Goal Fields" tooltip="Goal Fields">
+        <ng-template pTemplate="content">
+          <dx-scroll-view height="100%" width="100%"> </dx-scroll-view>
+          <dx-scroll-view height="100%" width="100%">
+            <vng-goal-fields
+              
